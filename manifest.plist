@@ -10,13 +10,13 @@
       <array>
         <dict>
           <key>kind</key><string>software-package</string>
-          <key>url</key><string>https://github.com/EchoLunar/firefly-beta-builds/releases/download/build-202604151244/Firefly-Beta.ipa</string>
+          <key>url</key><string>https://github.com/EchoLunar/firefly-beta-builds/releases/download/build-202604151259/Firefly-Beta.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key><string>beta.firefly.chat</string>
-        <key>bundle-version</key><string>202604151244</string>
+        <key>bundle-version</key><string>202604151259</string>
         <key>kind</key><string>software</string>
         <key>title</key><string>Firefly-Beta</string>
       </dict>
